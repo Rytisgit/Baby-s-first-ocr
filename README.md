@@ -8,3 +8,5 @@ Can recognize some hand written symbols after training on the MNIST data set
 
 ## Results after comparing to images:
 
+![Results](https://github.com/Rytisgit/Baby-s-first-ocr/blob/master/ResultsInLithuanian/resultPicture.png)
+
